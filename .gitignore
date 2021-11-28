@@ -1,4 +1,12 @@
-# Byte-compiled / optimized / DLL files
+.localstack
+venv
+.vscode
+dynamo-admin/node_modules
+sqs-sns-client/.vscode
+sqs-sns-client/node_modules
+__pycache__# Byte-compiled / optimized / DLL files
+
+
 __pycache__/
 *.py[cod]
 *$py.class
