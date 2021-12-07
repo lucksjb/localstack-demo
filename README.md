@@ -118,4 +118,16 @@ python s3_sqs_consumer.py
 
 - [DynamoDB admin](https://github.com/aaronshaf/dynamodb-admin)
 - [aws-sqs-sns-client](https://github.com/ajyounguk/aws-sqs-sns-client)
-- [localstack-s3-ui](https://github.com/rayhaanbhikha/localstack-s3-ui/blob/master/example/README.md)
+- [localstack-s3-ui](https://github.com/rayhaanbhikha/localstack-s3-ui/blob/master/example/README.md) 
+
+
+
+## Minhas anotações
+acessar porta 4566
+dynamodb-local 
+localstack-s3
+aws-sqs-client 
+
+https://www.linkedin.com/pulse/simulando-servi%25C3%25A7os-aws-na-sua-m%25C3%25A1quina-com-localstack-james-g-silva/?trackingId=gcHm3DFdTTOA6WkgoAMHJQ%3D%3D
+
+
